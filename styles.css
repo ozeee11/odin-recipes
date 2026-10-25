@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+}
+h1{
+    color: #D97845;
+    box-sizing: border-box;
+    background-color: #282722;
+    padding: 10px;
+    border: 10px solid #263D2C;
+    margin: 40px auto;
+    text-align: center;
+}
+ul{
+    color: #F8F5EF;
+    border: 10px solid pink;
+    border-radius: 12px;
+    width: 200px;
+    margin: -10px auto 10px auto;
+    padding: 20px;
+}
+li{
+        list-style: none;
+        
+}
+a{
+ 
+    text-decoration:none;
+    display: block;
+    padding: 5px;
+    background-color: #D97845;
+    margin: 5px;
+    border-radius: 12px;
+}
+a:hover {
+    color:#D97845;
+}
